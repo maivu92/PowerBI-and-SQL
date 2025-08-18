@@ -17,6 +17,12 @@ Before we begin, Let’s first identify and answer some business questions relat
 Once I clear my data before. Now I’m ready for analysis. I imported the converted .csv file into Power BI and started creating visualizations to answer the questions in depth.
 
 
+![image1](images/image1.png)
+
+![image2](images/image2.png)
+
+![image3](images/image3.png)
+
 
  
 
