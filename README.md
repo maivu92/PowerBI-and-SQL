@@ -6,7 +6,7 @@ Originally Written by María Carina Roldán, Pentaho Community Member, BI consul
 ## Analytics Questions
 Before we begin, Let’s first identify and answer some business questions related to our data:
 1. Number of revenue over the past several years?
-2. Which month have the most revenue?
+2. Which months have the most revenue?
 3. Which country has the most revenue?
 4. What types of products do customers order the most?
 5. Top 5 best selling products?
